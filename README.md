@@ -1,1 +1,2 @@
-# NewTow
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
